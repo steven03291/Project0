@@ -1,0 +1,47 @@
+body{
+background: #202124;
+color:white;
+margin: 5px;
+padding: 5px;
+font-family: "Helvetica Neue", sans-serif;
+}
+
+ul{ 
+list-style-type:none;
+margin: 10px;
+border: white solid 1px;
+}
+
+li{
+	display:inline;
+	padding-right: 10px;
+}
+
+form{
+	border-radius: 15px;
+	background-color: #202124;
+	padding: 10px;
+}
+
+.center{
+	text-align:center;
+}
+
+a{
+	text-decoration: none;
+	
+}
+
+a:visited{ 
+	color:inherit;
+
+ }
+
+ .button{
+ 	text-decoration: none;
+ 	color: black;
+ }
+
+ .button:visited{
+ 	color:inherit;
+ }
